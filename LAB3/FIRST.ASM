@@ -1,3 +1,4 @@
+; Read symbol from keyboard and print next 3 characters from ascii table
 MYCODE SEGMENT 'CODE'
     ASSUME CS:MYCODE
     PUBLIC LET
